@@ -31,7 +31,7 @@ button {
 
 a {
   text-decoration: none;
-  color: ${primaryColor};
+  color: ${primaryDarkColor};
 }
 
 ul {
